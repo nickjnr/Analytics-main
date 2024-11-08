@@ -1,0 +1,38 @@
+{
+  "name": "analyze-ke",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxt/devtools": "latest",
+    "@nuxtjs/tailwindcss": "^6.8.0",
+    "@types/node": "^18.17.0",
+    "nuxt": "^3.14.159"
+  },
+  "dependencies": {
+    "nuxt-icon": "^0.4.2"
+  },
+  "description": "Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevHumbleChris/analyze-ke.git"
+  },
+  "keywords": [
+    "dashboard",
+    "nuxt3",
+    "tailwindcss"
+  ],
+  "author": "AmChrisKE",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DevHumbleChris/analyze-ke/issues"
+  },
+  "homepage": "https://github.com/DevHumbleChris/analyze-ke#readme"
+}
